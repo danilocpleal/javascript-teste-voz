@@ -45,7 +45,7 @@ div#nome-jogo{
 section#corpo {
     display: flex;
     flex-direction: row;
-    margin-top: 150px;    
+    margin-top: 80px;    
 }
 
 section#corpo div#esquerda {
